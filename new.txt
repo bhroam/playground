@@ -1,2 +1,5 @@
 This is a file with text.
+Hi there new line in between two lines
 This is a new line.
+
+New line at the end of file
